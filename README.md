@@ -39,3 +39,6 @@ This project was developed to demonstrate practical skills in:
 ## Screenshots
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 ![Filtered View](screenshots/dashboard_filtered.png)
+
+## Author
+Stefano Avanzini
